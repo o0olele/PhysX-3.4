@@ -5,3 +5,5 @@ PhysX_3.4/Lib/vc15win64/*
 PhysX_3.4/Source/compiler/vc15win64/.vs
 PxShared/bin/vc15win64/*
 PxShared/lib/vc15win64/*
+Cwrapper/x64/Release/*
+Cwrapper/Cwrapper.vcxproj.filters
